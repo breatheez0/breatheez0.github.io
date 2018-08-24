@@ -1,13 +1,14 @@
 body {
 color: black;
 font-family:sans-serif
+
 }
 
 #company {
   font-family:sans-serif;
   font-weight: bold;
   text-transform: capitalize;
-  float: left;
+
 }
 
 #Dates {
@@ -15,7 +16,7 @@ font-family:sans-serif
   font-family:sans-serif;
   font-weight: bold;
   text-transform: capitalize;
-  float: right;
+
 }
 
 #contact {
